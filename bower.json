@@ -5,7 +5,7 @@
   "homepage": "https://github.com/solariussolutions/ng-auto-save",
   "authors": [
     "Code by Dmitry Efimenko <http://dmitryefimenko.github.io/>",
-    "Packaging by Ville Sundell <development@solarius.fi>",
+    "Packaging by Ville Sundell <development@solarius.fi>"
   ],
   "description": "Set of directives to save input's values as user types",
   "moduleType": [
